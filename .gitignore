@@ -4,3 +4,4 @@ venv/
 # Alembic
 alembic.ini
 migrations/versions/__pycache__/
+.gitignore
