@@ -1,0 +1,6 @@
+.venv/
+venv/
+.idea/
+# Alembic
+alembic.ini
+migrations/versions/__pycache__/
